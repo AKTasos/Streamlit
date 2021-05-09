@@ -5,7 +5,6 @@ Created on Tue May  4 16:38:47 2021
 
 @author: aktasos
 """
-pip install seaborn
 
 import streamlit as st
 import seaborn as sns
